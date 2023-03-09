@@ -96,7 +96,7 @@ bot.telegram.sendMessage(ctx.chat.id, message, {
 })
 
 // https://min-api.cryptocompare.com/data/pricemulti?fsyms=ETH,DASH&tsyms=BTC,USD,EUR&api_key=26ccc30ad068a5408d97a3f157ede8d4e15db88e30b5b94e829db82385acd94f
-bot.launch();
+// bot.launch();
 bot.start();
 
 // export TELEGRAM_API_TOKEN=6256425639:AAHkwmcst9kOvIUaR-CvjfaPlzySRWWUOBc
